@@ -23,3 +23,7 @@ variable
 
 5. Make sure all your changes are committed to your git repository and push them
 back up to github
+
+the repository has one baschrc file named firstbash.bashrc, with the path of ~/bin
+it also has a .vimrc file with the color scheme settings set to desert
+and has this readme text document which has been edited or apended.
